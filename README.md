@@ -49,4 +49,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankkitseth&show_icons=true&locale=en" alt="ankkitseth" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankkitseth&" alt="ankkitseth" /></p>
