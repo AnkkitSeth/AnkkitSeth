@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankkitseth&label=Profile%20views&color=0e75b6&style=flat" alt="ankkitseth" /> </p>
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **NodeJs**
 
 - 💬 Ask me about **ReactJs, NodeJs, Java, Python**
 
